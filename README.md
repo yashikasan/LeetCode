@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kawaikunaineko/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kawaikunaineko/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1512-number-of-good-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/kawaikunaineko/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -24,9 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kawaikunaineko/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kawaikunaineko/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/kawaikunaineko/LeetCode/tree/master/1929-concatenation-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kawaikunaineko/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
