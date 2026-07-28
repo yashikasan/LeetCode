@@ -2,16 +2,17 @@ class Solution {
 public:
     vector<int> getConcatenation(vector<int>& nums) 
     {   
+        // logic : 1. create a new array such that it is double the size of existing array
+        // 2. copy exising integers in the array
+        // 3. repeat the copying of integers right from where we left
 
-        vector<int> neww(nums.size()*2);
-        for (int i =0; i< nums.size(); i++)
-        {
-            neww[i] = nums[i];
+        vector<int> new_arr(2* nums.size());
+        for(int i = 0; i < nums.size(); i++){
+            new_arr[i] = nums[i];
+            new_arr[i + nums.size()] = nums[i];
         }
-        for (int i = 0; i<nums.size(); i++)
-        {
-            neww[nums.size()+i] = nums[i];
-        }
-        return neww;
+    
+    return new_arr;
+
     }
 };
