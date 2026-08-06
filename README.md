@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/kawaikunaineko/LeetCode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kawaikunaineko/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting
 |  |
 | ------- |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kawaikunaineko/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
