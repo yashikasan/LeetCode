@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/kawaikunaineko/LeetCode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/kawaikunaineko/LeetCode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kawaikunaineko/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/kawaikunaineko/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/kawaikunaineko/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kawaikunaineko/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3477-fruits-into-baskets-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kawaikunaineko/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/kawaikunaineko/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
