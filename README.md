@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kawaikunaineko/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/kawaikunaineko/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/kawaikunaineko/LeetCode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/kawaikunaineko/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -28,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kawaikunaineko/LeetCode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/kawaikunaineko/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/kawaikunaineko/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3731-find-missing-elements](https://github.com/kawaikunaineko/LeetCode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/kawaikunaineko/LeetCode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/kawaikunaineko/LeetCode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/kawaikunaineko/LeetCode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kawaikunaineko/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
 | [3477-fruits-into-baskets-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -80,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/kawaikunaineko/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/kawaikunaineko/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
 | [3731-find-missing-elements](https://github.com/kawaikunaineko/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -103,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/kawaikunaineko/LeetCode/tree/master/0412-fizz-buzz) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
