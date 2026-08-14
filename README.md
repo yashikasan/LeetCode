@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kawaikunaineko/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kawaikunaineko/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/kawaikunaineko/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/kawaikunaineko/LeetCode/tree/master/0575-distribute-candies) |
 | [0877-stone-game](https://github.com/kawaikunaineko/LeetCode/tree/master/0877-stone-game) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kawaikunaineko/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kawaikunaineko/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/kawaikunaineko/LeetCode/tree/master/0561-array-partition) |
 | [3731-find-missing-elements](https://github.com/kawaikunaineko/LeetCode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
