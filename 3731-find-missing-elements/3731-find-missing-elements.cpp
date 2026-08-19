@@ -2,22 +2,23 @@ class Solution {
 public:
     vector<int> findMissingElements(vector<int>& nums) 
     {
-        sort(nums.begin(), nums.end());
-        vector<int> missing;
-        int j =0; 
-        for(int i = nums[0]; i < nums[nums.size()-1]; i++ )
+        map<int, int > a;
+        vector<int> no;
+        for(int i =0; i < nums.size(); i++)
         {
-            if(nums[j] == i)
-            {
-                j++;
-            }
-            else
-            {
-                missing.push_back(i);
-            }
-
+            a[nums[i]]++; //[0,1,0,0,0,5]
         }
-         return missing;
+        for(int i = 0; i<a.size()-1; i++)
+        {
+            if(a[i] == 1 && a[i+1]!= 1)
+            {
+                no.push_back(i+1);
+                a[i+1]++;
+            }
+        }
+        
+        return no;
+
     }
    
 };
@@ -31,6 +32,22 @@ public:
 
 
 
+        // sort(nums.begin(), nums.end());
+        // vector<int> missing;
+        // int j =0; 
+        // for(int i = nums[0]; i < nums[nums.size()-1]; i++ )
+        // {
+        //     if(nums[j] == i)
+        //     {
+        //         j++;
+        //     }
+        //     else
+        //     {
+        //         missing.push_back(i);
+        //     }
+
+        // }
+        //  return missing;
 
 
 
