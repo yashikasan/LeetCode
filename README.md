@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/kawaikunaineko/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kawaikunaineko/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kawaikunaineko/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 | [3731-find-missing-elements](https://github.com/kawaikunaineko/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/kawaikunaineko/LeetCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/kawaikunaineko/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kawaikunaineko/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kawaikunaineko/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
