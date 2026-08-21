@@ -1,0 +1,33 @@
+class Solution {
+public:
+    vector<int> resultArray(vector<int>& nums) 
+    {
+        vector<int> ar1;
+        vector<int> ar2;
+        int ln1 = nums[0];
+        int ln2 = nums[1];
+        ar1.push_back(nums[0]);
+        ar2.push_back(nums[1]);
+        for(int i =2 ; i < nums.size() ; i ++)
+        {
+            if(ln1 > ln2 )
+            {
+                ar1.push_back(nums[i]);
+                ln1 = nums[i];
+            }
+            else if(ln1 < ln2)
+            {
+                ar2.push_back(nums[i]);
+                ln2 = nums[i];
+            }
+        }
+
+        for(int i = 0; i <ar2.size(); i++)
+        {
+            ar1.push_back(ar2[i]);
+        }
+        return ar1;
+
+        
+    }
+};
