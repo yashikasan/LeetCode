@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kawaikunaineko/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kawaikunaineko/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/kawaikunaineko/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/kawaikunaineko/LeetCode/tree/master/0575-distribute-candies) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kawaikunaineko/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kawaikunaineko/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/kawaikunaineko/LeetCode/tree/master/0575-distribute-candies) |
 | [1512-number-of-good-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kawaikunaineko/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kawaikunaineko/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kawaikunaineko/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kawaikunaineko/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/kawaikunaineko/LeetCode/tree/master/0561-array-partition) |
 | [3731-find-missing-elements](https://github.com/kawaikunaineko/LeetCode/tree/master/3731-find-missing-elements) |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/kawaikunaineko/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/kawaikunaineko/LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kawaikunaineko/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kawaikunaineko/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Game Theory
 |  |
