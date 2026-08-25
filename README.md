@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kawaikunaineko/LeetCode/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/kawaikunaineko/LeetCode/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
@@ -147,4 +148,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/kawaikunaineko/LeetCode/tree/master/0561-array-partition) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kawaikunaineko/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kawaikunaineko/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
