@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/kawaikunaineko/LeetCode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/kawaikunaineko/LeetCode/tree/master/0575-distribute-candies) |
+| [0704-binary-search](https://github.com/kawaikunaineko/LeetCode/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/kawaikunaineko/LeetCode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/kawaikunaineko/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kawaikunaineko/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/kawaikunaineko/LeetCode/tree/master/0704-binary-search) |
 | [3477-fruits-into-baskets-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
