@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kawaikunaineko/LeetCode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/kawaikunaineko/LeetCode/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kawaikunaineko/LeetCode/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kawaikunaineko/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kawaikunaineko/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kawaikunaineko/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kawaikunaineko/LeetCode/tree/master/0877-stone-game) |
 ## Simulation
 |  |
@@ -161,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kawaikunaineko/LeetCode/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
