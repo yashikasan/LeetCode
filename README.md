@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kawaikunaineko/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kawaikunaineko/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/kawaikunaineko/LeetCode/tree/master/0877-stone-game) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kawaikunaineko/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/kawaikunaineko/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kawaikunaineko/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kawaikunaineko/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/kawaikunaineko/LeetCode/tree/master/0575-distribute-candies) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kawaikunaineko/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 | [3731-find-missing-elements](https://github.com/kawaikunaineko/LeetCode/tree/master/3731-find-missing-elements) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kawaikunaineko/LeetCode/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/kawaikunaineko/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Dynamic Programming
