@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kawaikunaineko/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kawaikunaineko/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kawaikunaineko/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0414-third-maximum-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/kawaikunaineko/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kawaikunaineko/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/kawaikunaineko/LeetCode/tree/master/0704-binary-search) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kawaikunaineko/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kawaikunaineko/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/kawaikunaineko/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kawaikunaineko/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kawaikunaineko/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/kawaikunaineko/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/kawaikunaineko/LeetCode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Counting Sort
 |  |
@@ -193,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kawaikunaineko/LeetCode/tree/master/0836-rectangle-overlap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/kawaikunaineko/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
