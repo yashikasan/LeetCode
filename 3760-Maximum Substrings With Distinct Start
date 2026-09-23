@@ -1,0 +1,29 @@
+class Solution {
+public:
+    int maxDistinct(string s) 
+    {
+        map<int, int> mp;
+        vector<int> vec;
+        for(int i = 0; i< s.size(); i++)
+        {
+            int m = s[i] -'a';
+            vec.push_back(m);
+        }   
+
+        for(int i = 0; i <vec.size(); i++)
+        {
+            mp[vec[i]]++;
+        }
+
+        int count = 0; 
+
+        for( int i =0; i <26; i++)
+        {
+            if(mp[i]!=0)
+            {
+                count++;
+            }
+        }
+        return count;
+    }
+};
