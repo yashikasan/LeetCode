@@ -1,0 +1,50 @@
+class Solution {
+public:
+    bool kLengthApart(vector<int>& nums, int k) 
+    {
+        int count = 0;
+        vector<int> vec;
+        for(int i =0; i < nums.size(); i++)
+        {
+            if(nums[i] == 0)
+            {
+                count++;
+            }
+            if(nums[i] ==1)
+            {
+                if(count<k && !vec.empty())
+                {
+                    return false;
+                }
+                vec.push_back(count);
+                count = 0;
+            }
+        }
+        //sort(vec.begin(), vec.end());
+        // if(vec[1] <= k)
+        // {
+        //     return false;
+        // }
+
+        return true;
+    }
+};
+        //     if(nums[i] == 1)
+        //     {   
+        //         if( i != 1 && count< k  )
+        //         {
+        //             return false;
+        //         }
+        //         else if 
+        //         {
+        //             count= 0;
+        //         }
+        //     }
+
+        //     else if(nums[i] == 0)
+        //     {
+        //         count ++;
+        //     }
+
+        // }
+        // return true;
