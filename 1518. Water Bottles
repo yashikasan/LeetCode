@@ -1,0 +1,17 @@
+class Solution {
+public:
+    int numWaterBottles(int numBottles, int numExchange) 
+    {
+        int have = numBottles;
+        int ex = numExchange;
+        int sumy= numBottles;
+        while(ex <= have)
+        {
+            int neu = have/ex;
+            int mod = have%ex;
+            sumy = sumy+ neu;
+            have = neu + mod;
+        }
+        return sumy;
+    }
+};
