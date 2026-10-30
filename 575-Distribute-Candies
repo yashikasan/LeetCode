@@ -1,0 +1,17 @@
+class Solution {
+public:
+    int distributeCandies(vector<int>& candyType) {
+        int eaten = 1;
+        int i = 0;
+        sort(candyType.begin(), candyType.end());
+        while(i < candyType.size()-1 && eaten < candyType.size()/2)
+        {
+            if(candyType[i] != candyType[i+1])
+            {
+                eaten += 1;
+            }
+            i ++;
+        }
+        return eaten;
+    }
+};
