@@ -1,0 +1,24 @@
+class Solution {
+public:
+    void sortColors(vector<int>& nums) 
+    {
+      //1.iterations
+      //2. compare current ele with next ele
+      //3. if ele is greater than next ele -> swap
+      //4. last ele is greatest one so next time skip it in iterations
+
+      for(int i = 0; i < nums.size(); i++)
+      {
+        for(int j = 0; j < nums.size()-i-1; j++)
+        {
+            if(nums[j] > nums[j +1])
+            {
+                int temp = nums[j];
+                nums[j] = nums[j+1];
+                nums[j+1] = temp;
+            }
+        }
+      }
+        
+    }
+};
