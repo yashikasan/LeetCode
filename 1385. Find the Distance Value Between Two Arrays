@@ -1,0 +1,27 @@
+class Solution {
+public:
+    int findTheDistanceValue(vector<int>& a1, vector<int>& a2, int d) 
+    {
+        int count = 0;
+        int j;
+      for(int i = 0; i < a1.size(); i++)
+      {
+
+        for( j = 0; j < a2.size(); j++)
+        {
+            int minus = abs(a1[i]-a2[j]);
+            if(minus <=d)
+            {
+                break;
+            }
+            
+        }
+        if(j == a2.size())
+        {
+            count++;
+        }
+      }
+      return count;
+        
+    }
+};
