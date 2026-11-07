@@ -1,0 +1,30 @@
+class Solution {
+public:
+    bool isHappy(int n)
+    {
+        int i = INT_MAX;
+
+        while(i >= 9)
+        {
+            int temp = n;
+            int sum = 0;
+
+            while(temp > 0)
+            {
+                int mod = temp % 10;
+                sum = sum + (mod * mod);
+                temp = temp / 10;
+            }
+            n = sum;
+            if(n == 1)
+                return true;
+
+            if(n == i)
+                return false;
+
+            i = n;
+        }
+
+        return true;
+    }
+};
