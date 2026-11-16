@@ -1,0 +1,16 @@
+class Solution {
+public:
+    vector<int> twoSum(const vector<int>& nums, int target) {
+        int correct = 0;
+        size_t length = nums.size();
+        for (int i = 0; i < length; i++) {
+            for (int j = i+1; j < nums.size(); j++) {
+                correct = nums[i] + nums[j];
+                if (correct - target == 0) {
+                    return {i, j};
+                }
+            }
+        }
+        return {};
+    }
+};
