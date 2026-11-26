@@ -1,0 +1,22 @@
+class Solution {
+public:
+    bool canAliceWin(int n) 
+    {
+        int remove = 10;
+        int alice = 0;
+        while(n>= remove)
+        {
+            n-= remove;
+            remove--;
+            alice++;
+        }
+        if(alice%2 != 0)
+        {
+            return true;
+        }
+        else{
+            return false;
+        }
+        return true;
+    }
+};
